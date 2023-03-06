@@ -1,0 +1,5 @@
+1. O fatorial (!) de um número n é representado por "n!"
+2. "n!" é a multiplicação de "n" por todos os seus antecessores.
+3. quando n = 4
+4. resultado = n! = 4 . 3 . 2 . 1
+5. Escreva resultado.
