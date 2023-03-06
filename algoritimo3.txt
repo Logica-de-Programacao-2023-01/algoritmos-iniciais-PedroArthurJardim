@@ -1,0 +1,5 @@
+1. Determine o conjunto de valores que você deseja medir.
+2. Some os valores para encontrar a soma. 
+3. Conte a quantidade de valores no grupo.
+4. Divida a soma dos números pela quantidade de números do conjunto.
+5. escreva o resultado.
