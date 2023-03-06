@@ -1,0 +1,4 @@
+1. ler x
+2. ler y
+3. resultado = x + y
+4. escreva resultado
