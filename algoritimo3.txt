@@ -3,4 +3,4 @@
 3. Conte a quantidade de valores no grupo.
 4. Divida a soma dos números pela quantidade de números do conjunto.
 5. escreva o resultado.
-fsfgsd
+
