@@ -1,0 +1,5 @@
+1. leia a lista de números
+2. identifique o elemento que procura
+3. se encontrá-lo o selecione
+4. senão:
+5. enquanto não achar continue procurando 
