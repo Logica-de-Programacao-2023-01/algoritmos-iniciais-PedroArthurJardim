@@ -1,0 +1,7 @@
+1. identifique a temperatura em graus celcius.
+2. resultado = (temperatura em Fahrenheit) = ((temperatura em celcius) x 1,8) + 32.
+3. escreva resultado.
+4. para realizar a operação ineversa.
+5. identifique a temperatura em Fahrenheit.
+6. resultado = (temperatura em celcius) = ((temperatura em fahrenheit) - 32) ÷ 1,8.
+7. escreva resultado.
