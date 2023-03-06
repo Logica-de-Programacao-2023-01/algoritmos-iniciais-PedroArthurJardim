@@ -1,0 +1,6 @@
+1. leia o número que será analisado
+2. se for divisível apenas por 1 e por ele mesmo
+3. resultado = primo
+3. senão:
+4. resultado = não primo
+5. escreva resultado
