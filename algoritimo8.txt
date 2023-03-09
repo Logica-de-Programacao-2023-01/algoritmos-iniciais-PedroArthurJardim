@@ -1,0 +1,4 @@
+1. leia o valor da base do triângulo
+2. leia o valor da altura do triângulo
+3. resultado = base . altura/2
+4. escreva resultado
