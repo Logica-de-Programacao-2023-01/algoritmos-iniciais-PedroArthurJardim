@@ -1,6 +1,5 @@
-1. leia o número que será analisado
-2. se for divisível apenas por 1 e por ele mesmo
-3. resultado = primo
-3. senão:
-4. resultado = não primo
-5. escreva resultado
+leia x
+para cada numero entre 2 e x-1:
+se x dividido pelo valor_atual tem resto 0:
+entao escreva NÃO É PRIMO
+escreva É PRIMO
