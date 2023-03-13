@@ -1,6 +1,7 @@
-1. leia o montante (M)
-2. leia o capital inicial (C)
-3. leia a taxa de juros (i)
-4. leia o tempo (N)
-5. resultado = M = C.(1-i)^n
-6. escreva resultado
+leia capital_inicial
+leia taxa_juros
+leia tempo
+var resultado = capital_inicial
+para todo numero entre 1 e tempo, faça:
+resultado = resultado * (1+taxa_juros)
+escreva resultado
