@@ -1,8 +1,6 @@
-1. leia o número que será a base "x"
-2. leia o número que indicará a quantidade de vezes que será 
-multiplicado "y"
-3. resultado = x^y
-4. se x = 2 
-5. se y = 4
-6. resultado = 2^4
-7. escereva resultado
+leia x
+leia exp
+var resultado = x
+para 1 ate exp, faça:
+resultado = resultado * x
+escreva resultado
